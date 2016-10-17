@@ -1,0 +1,171 @@
+                                              ABSTRAK
+
+       Pada era globalisasi seperti saat ini, kebutuhan akan data dan informasi sangatlah tinggi dalam dunia pendidikan,
+mengingat cara manual sudah tidak telalu efisien untuk digunakan, memakan banyak waktu dan biaya dalam pelaksanaanya.
+Sedangkan kita dituntut untuk melakukan segala pekerjaan secara cepat, efisien, dan akurat agar bisa bersaing dalam era 
+teknologi pada saat ini.
+
+       Rancang Bangun Sistem Informasi Akademik  Sma Negeri 2 Watampone menggunakan framework Yii berbasis website ini merupakan 
+Sistem Informasi Akademik berbasis website. 
+Fungsi memudahkan siswa dan orang tua siswa dalam melakaukan pengecekan nilai maupun absensi khususnya
+Pengajar dalam melakukan penginputan maupun pengelolaan data nilai maupun absensi.
+
+        Aplikasi/Sistem ini dibangun dengan menggunakan bahasa Pemograman PHP  dengan Framework Yii yang digunakan
+untuk menginterasikan sistem dengan database yang menggunakan MySql sebagai Database Management System ( DBMS ). 
+Dengan menggunakan laptop sebagai perantara dan komputer .Metode yang digunakan dalam penulisan ini dengan meggunakan
+alat permodelan Unified Modeling Language ( UML ).
+
+
+      Kata Kunci :Framework Yii, PHP,mySQL
+      
+      
+      BAB I
+
+PENDAHULUAN
+
+
+1.1 Latar Belakang
+
+         Perkembangan saat ini kita dituntut untuk mengikuti  kemajuan teknologi informasi untuk mempermudah pekerjaan, 
+  dalam bidang sistem informasi berguna sebagai sistem yang mempermudah dan mempercepat penyampaian informasi serta mempermudah
+  dalam penyimpanan data informasi.
+         Seperti dalam dunia pendidikan, sekolah harus memberikan pelayanan yang terbaik kepada siswa dan para orang tua siswa untuk 
+  memberikan informasi hasil akademik siswa yang bisa secara cepat diakses oleh siswa dan wali siswa,
+  maka diperlukan suatu aplikasi untuk mencapai tujuan tersebut.
+         Aplikasi sistem Informasi nilai  SMA Negeri 2 Watampone memberikan informasi  laporan keaktifan siswa secara  online 
+  berupa laporan nilai siswa dengan berbasiskan  web, sehingga membantu kecepatan dan kualitas dalam penyampaian informasi. 
+  Selain itu dengan berbasiskan web maka informasi dapat diakses dimana saja dan kapan saja,  aplikasi ini dapat diakses 
+  siswa/orangtua, pengajar dan administrator . 
+
+
+1.2 Identifikasi Masalah
+
+Dari latar belakang tersebut ditemukan beberapa masalah, antara lain:
+1.  Data informasi akademik yang disimpan masih menggunakn metode secara manual, data infromasi siswa masih ditulis didalam 
+    buku sehingga data informasi yang disimpan tersebut kurang tertata rapih dan sering sekali hilang.
+2.	Sistem pengecekan nilai masih menggunakan cara manual,dimana siswa harus datang langsung kepengajar untuk melakukan
+    pengecekan nilai.
+3.	Belum ada aplikasi yang dapat menunjang di dalam pengelolaan laporan akademik  ini.
+4.	Masih kurangnya fasilitas orang tua untuk melihat langsung data akademik anaknya.
+
+
+
+1.3 Tujuan
+
+Berdasarkan latar belakang dan rumusan masalah diatas, maka tujuan yang ingin dicapai adalah:
+1.	Membuat sistem yang dapat membantu memudahkan guru/pengajar untuk menyimpan data akademik siswa secara akurat.
+2.	Menyediakan fasilitas kepada siswa dan orang tua siswa untuk memantau secara langsung hasil akademiknya.
+3.	Memberikan fasilitas kepada guru/pengajar untuk mengelola nilai dan absensi siswa.
+4.	Memberikan kemudahan bagi orang tua wali siswa untuk melakukan pengawasan atau pengecekan data akademik anaknya.
+ 
+1.4 Ruang Lingkup
+Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
+1.	Sistem dirancang berbasis  web dengan menggunakan  framework Yii.
+2.	Aplikasi ini menyediakan fitur yang memudahkan dalam pengelolaaan data akademik. 
+3.	Siswa dan wali siswa harus login terlebih dahulu bila ingin mengecek data akademik, sementara untuk input data nilai dan absensi dilakukan oleh pengajar/guru atau admin yang harus login terlebih dahulu.
+
+1.5 Sistematika Penulisan
+Penyajian laporan proyek dibagi menjadi beberapa bab dengan tujuan untuk mempemudah pencarian data atau informasi yang 
+dibutuhkan, serta menunjukan penyelesaian pekerjaan yang sistematis. Pembagian bab tersebut adalah sebagai berikut :
+
+BAB I PENDAHULUAN
+Pada bab I ini dibahas mengenai latar belakang yang berisi usulan ringkas mengenai keadaan atau kondisi yang ada sehingga
+muncul topik yang diambil. Dalam bab I juga terdapat identifikasi masalah yang berisi berbagai masalah yang sudah dikenali dan akan diberikan solusinya melalui fungsi dan aplikasi yang dibuat. Pada bab ini juga berisi tujuan yang ingin dicapai dalam pembuatan aplikasi, dan manfaat penulisan serta bab ini juga dibuat ruang lingkup pada pembuatan aplikasi ini dan sistematika penulisan yaitu suatu penjabaran secara deskriptif tentang hal-hal yang akan ditulis.
+
+
+BAB II LANDASAN TEORI
+Pada bab ini akan dijelaskan mengenai teori – teori yang digunakan sebagai panduan pada perancangan sistem informasi sekolah 
+dalam membantu penelitian.
+
+BAB III ANALISIS DAN PERANCANGAN
+Pada bab ini menjelaskan tentang perancangan ranca bangun Sistem Informasi Akademik Sma Negeri 2 Watampone Menggunakan Framework 
+Yii yang merupakan topik yang diangkat. Pada bab ini dijelaskan setiap kebutuhan fungsional sistem informasi ini beserta diagram alir data serta spesifikasi proses. Pada perancangan dijelaskan bagaimana sistem tersebut dibangun. Perancangan ini memaparkan mengenai rancangan data, antar muka tampilan (interface) dan flowchart.
+
+BAB IV IMPLEMENTASI DAN PENGUJIAN
+Bab ini membahas tentang aplikasi yang dibuat dan menjelaskan secara rinci komponen – komponen pendukung dan pengujian 
+aplikasi yang dibuat sesuai dengan rancangan. Selain itu, akan membahas tentang pengujian aplikasi yang dibuat.
+
+BAB V KESIMPULAN DAN SARAN
+Pada bab ini berisi pencapaian tujuan dari aplikasi yang dibuat, dan berisi hal –hal atau tujuan dari pembuatan aplikasi 
+yang belum sempurna atau tidak tercapai.
+
+
+BAB II
+LANDASAN TEORI
+2.1	Sistem Informasi
+2.1.1	 Sistem
+             Sistem didefinisikan sebagai sekumpulan procedur yang saling berkaitan dan saling terhubung untuk 
+             melakukan suatu tugas bersama-sama.Segara garis besar ,selurub sysstem informasi terdiri atas tiga komponen utama.
+             Ketiga komponen tersebut mencakup sofware, hardware, dan brainware, Ketiga komponen ini saling berkaitan satu sama 
+             lain.[1]
+  2.1.2   Pengertian Informasi
+  
+             Informasi merupakan hasil pengolahan data dari satu atau berbagai sumber, yang kemudian diolah, sehingga memberikan
+             nilai, arti, dan manfaat, proses pengolahan ini memerlukan teknologi.[2]
+             
+2.2	 Framework
+               Framework atau bahasa indonesianya kerangka kerja adalah sebuah software untuk memudahkan para programmer membuat
+               aplikasi atau web yang isinya adalah berbagai fungsi, plugin, dan kosep sehingga membentuk suatu sistem tertentu.
+               Dengan menggunakan framwork, suatu aplikasi akan tersusun dan terstruktur dengan rapih. [3]
+ 
+       Yii
+        Yii merupakan salah satu dari sekian banyak framework PHP yang cukup populer dikalangan PHP Developer. Adapun Yii di kembangkan
+    oleh Qiang Xue pada 1 Januari 2008, seorang programmer berkebangsaan China yang sebelum nya juga telah mengembangkan framework
+    PHP bernama Prado. Oleh karena itu tak heran jika Qiang juga mengadopsi teknik-teknik yang dipakai pada Prado saat mengembangkan
+    Yii. Selain terinspirasi oleh Prado, Yii juga terinspirasi oleh framework luar yaitu Ruby On Rails terutama pada mekanisme ORM
+    nya. Dan masih banyak lagi yang menginspirasi Yii framework seperti Symfony dan Joomla.
+    
+2.3	HTML ( Hyper Text Markup Language)
+                 HTML merupakan standar bahasa yang digunakan untuk menampilkan dukungan Web. Adapun program yang digunakan untuk 
+           membuat dokumen HTML diantaranya Microsoft Fontpage, Macromedia Dreamweaver 8, dan Notepad. Browseryang bisa 
+           digunakan yaitu Internet Explorer, Mozilla Firefox dan lain-lain, dimana browser ini merupakan perangkat lunak 
+           yang di instal di mesin client yang berfungsi untuk menterjemahkan tag-tag HTML.[4]
+
+2.4	Internet
+        Internet atau interconnected networking merupakan dua komputer atau lebih yang saling berhubungan membentuk jaringan komputer
+    hingga meliputi jutaan komputer di dunia, yang saling berinteraksi dan bertukar informasi.[4] 
+    Internet merupakan sejarah yang sangat kompleks dan mencakup banyak aspek seperti teknologi, organisasi, dan komunitas.[5]
+
+2.5	PHP
+                    PHP Pertama kali ditemukan pada 1995 oleh seorang Software Developer bernama Rasmus Lerdrof. Ide awal PHP adalah 
+               ketika itu Radmus ingin mengetahui jumlah pengunjung yang membaca resume onlinenya. script yang dikembangkan baru 
+               dapat melakukan dua pekerjaan, yakni merekam informasi visitor, dan menampilkan jumlah pengunjung dari suatu website.
+               Dan sampai sekarang kedua tugas tersebut masih tetap populer digunakan oleh dunia web saat ini. Kemudian, dari situ 
+               banyak orang di milis mendiskusikan script buatan Rasmus Lerdrof, hingga akhirnya rasmus mulai membuat sebuah 
+               tool/script, bernama Personal Home Page (PHP). [6]
+                    Kebutuhan PHP sebagai tool yang serba guna membuat Lerdorf melanjutkan untuk mengembangkan PHP hingga menjadi suatu 
+               bahasa tersendiri yang mungkin dapat mengkonversikan data yang di inputkan melalui Form HTML menjadi suatu variable,
+               yang dapat dimanfaatkan oleh sistem lainnya. Untuk merealisasikannya, akhirnya Lerdrof mencoba mengembangkan PHP
+               menggunakan bahasa C ketimbang menggunakan Perl. Tahun 1997, PHP versi 2.0 di rilis, dengan nama Personal Home Page 
+               Form Interpreter (PHP-FI). PHP Semakin popular, dan semakin diminati oleh programmer web dunia.[6.1]
+                    Rasmus Lerdrof benar-benar menjadikan PHP sangat populer, dan banyak sekali Team Developer yang ikut bergabung dengan
+               Lerdrof untuk mengembangkan PHP hingga menjadi seperti sekarang, Hingga akhirnya dirilis versi ke 3-nya, pada Juni 1998, 
+               dan tercatat lebih dari 50.000 programmer menggunakan PHP dalam membuat website dinamis. [6.2]
+
+2.6	MySQL
+              MySQL  merupakan DBMS yang sangat kuat dan cukup stabil untuk digunakan sebagai media penyimpanan data.
+        MySQL disebut juga sebagai sebuah database server, artinya Anda tidak harus meletakan database tersebut 
+        dalam satu mesin/komputer dengan aplikasi yang digunakan, sehingga Anda dapat meletakan sebuah database pada sebuah 
+        mesin khusus dalam hal ini komputer server hal ini bermanfaat untuk menjaga kerahasiaan database Anda dari orang-orang
+        yang tidak bertanggungjawab.[7]
+             Di dalam dunia internet, MySQL dijadikan sebuah DBMS yang bersifat shareware, penggunaan MySQL biasanya dipadukan dengan 
+        mengggunakan program aplikasi PHP, karena sudah terbukti kehandalannya dalam menangani permintaan data. Apalagi dengan PHP
+        yang mempunyai fungsi sendiri untuk mengakses MySQL. Ini merupakan sebuah kombinasi yang cocok jika ingin mengembangkan
+        sebuah program berbasis web.[7.1] 
+
+2.7	UML
+        UML (Unified Modeling Language) adalah himpunan struktur dan teknik untuk pemodelan desain program berorientasi objek (OOP) serta aplikasinya.
+ UML adalah suatu bahasa yang digunakan untuk menentukan, memvisualisasikan, membangun, dan mendokumentasikan suatu sistem informasi.             UML dikembangkan sebagai suatu alat untuk analisis dan desain berorientasi objek oleh Grady Booch, Jim Rumbaugh, dan Ivar Jacobson. Namun demikian UML dapat digunakan untuk memahami dan mendokumentasikan setiap sistem informasi. Penggunaan UML dalam industri terus meningkat. Ini merupakan standar terbuka yang menjadikannya sebagai bahasa pemodelan yang umum dalam industri peranti lunak dan pengembangan sistem[8555	].
+ UML menyediakan 10 macam diagram untuk memodelkan aplikasi berorientasi objek, yaitu.
+1.	Use Case Diagram untuk memodelkan proses bisnis
+2.	Conceptual Diagram untuk memodelkan konsep-konsep yang ada di dalam aplikasi.
+3.	Sequence Diagram untuk memodelkan pengiriman pesan (message) antar objects.
+4.	Collaboration Diagram untuk memodelkan interaksi antar objects.
+5.	State Diagram untuk memodelkan perilaku objects di dalam sistem.
+6.	Activity Diagram untuk memodelkan perilaku Use Cases dan objects di dalam system.
+7.	Class Diagram untuk memodelkan struktur kelas.
+8.	Object Diagram untuk memodelkan struktur object.
+
+
+      
+      
